@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = amaury.bomaco@gmail.com
+	name = Amaury Waille
